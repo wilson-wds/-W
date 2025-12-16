@@ -1,0 +1,5 @@
+{
+  "name": "Split Bill App",
+  "description": "A group expense tracking and settlement application that helps users manage shared costs and calculates the simplest way to settle debts.",
+  "requestFramePermissions": []
+}
